@@ -4,7 +4,7 @@ return [
 		"host"=>"localhost",
 		"user"=>"root",
 		"password"=>"",
-		"dbname"=>"blog"
+		"dbname"=>"spa"
 	]
 ]
 
